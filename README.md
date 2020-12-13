@@ -3,6 +3,7 @@
 ## Описание
 - Репозиторий, для изучения **redux saga**
 - Материал для обучения взят с канала: [What the Javascript](https://www.youtube.com/channel/UC6YUiKxJyWaFvYDkJwRvZGQ)
+- Также для обучения использовалась [официальная документация](https://ru.redux-saga.js.org/)
 
 ## План
 1. [Learn Redux Saga - Introduction - 1 of 8](https://www.youtube.com/watch?v=0L99n06F2rU&list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39&ab_channel=WhattheJavaScript)
